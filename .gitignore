@@ -1,0 +1,8 @@
+.venv/
+.runtime/
+__pycache__/
+build/
+dist/
+.test-data/
+*.zip
+.worktrees/
